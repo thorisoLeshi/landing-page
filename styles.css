@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+}
+.container{
+    margin: 0 auto;
+    border: 1px black solid;
+    width:50%;
+    height:100vh;
+    display:flex;
+}
