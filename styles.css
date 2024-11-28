@@ -13,3 +13,21 @@
     flex: 1;
     border: 1px solid red;
 }
+
+.column-header{
+    margin: 0 auto;
+    height:20vh;
+    width:50%;
+    display: flex;
+    border: 1px solid blue;
+    flex-direction: column;
+    gap: 10px;
+    
+   
+    
+}
+.header{
+    flex: 1;
+    border: 1px solid red;
+   
+}
