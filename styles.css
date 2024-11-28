@@ -7,4 +7,9 @@
     width:50%;
     height:100vh;
     display:flex;
+    flex-direction: column;
+}
+.column-container{
+    flex: 1;
+    border: 1px solid red;
 }
